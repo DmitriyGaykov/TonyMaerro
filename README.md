@@ -9,8 +9,8 @@
 ## Social Media
 
 <a href="https://github.com/TonyMaerro"><img alt="" src="https://custom-icon-badges.herokuapp.com/badge/GitHub-000000.svg?style=flat-square&logo=github&logoColor=white"></a>
-<a href="https://www.instagram.com/dima_gaykov/"><img alt="" src="https://custom-icon-badges.herokuapp.com/badge/Instagram-purple.svg?style=flat-square&logo=instagram&logoColor=white"></a>
-<a href="https://vk.com/dgaykov1"><img alt="" src="https://custom-icon-badges.herokuapp.com/badge/VK-blue.svg?style=flat-square&logo=vk&logoColor=white"></a>
+<a href="https://www.instagram.com/dima_gaykov/"><img alt="" src="https://custom-icon-badges.herokuapp.com/badge/Instagram-ee00ac.svg?style=flat-square&logo=instagram&logoColor=white"></a>
+<a href="https://vk.com/dgaykov1"><img alt="" src="https://custom-icon-badges.herokuapp.com/badge/VK-00009f.svg?style=flat-square&logo=vk&logoColor=white"></a>
 
 ## 🛠️ My favorite tools
 
@@ -22,7 +22,7 @@
     <a  style="color: white" href="https://github.com/search?q=user%3ATonyMaerro+language%3Ajavascript"><img alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-f9a933.svg?style=flat-square&logo=javascript&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ATonyMaerro+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat-square&logo=css3&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ATonyMaerro+language%3Asvg"><img alt="SVG" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?style=flat-square&logo=svg&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ATonyMaerro+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?style=flat-square&logo=SASS&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ATonyMaerro+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-5500aa.svg?style=flat-square&logo=SASS&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ATonyMaerro+language%3Apython"><img alt="PYTHON" src="https://img.shields.io/badge/Python-darkblue.svg?style=flat-square&logo=PYTHON&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ATonyMaerro+language%3Adjango"><img alt="DJANGO" src="https://img.shields.io/badge/Django-brown.svg?style=flat-square&logo=Django&logoColor=white"></a>
 
