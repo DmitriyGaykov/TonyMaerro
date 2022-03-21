@@ -34,7 +34,7 @@
     <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000001.svg?style=flat-square&logo=github&logoColor=white"></a>
     <a href="https://ru.stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"></a>
     <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
-    <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-8b00ff.svg?style=flat-square&logo=visual-studio&logoColor=white"></a>
+    <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-8b00ff.svg?style=flat-square&logo=visual-studio&logoColor=ffffff"></a>
  </p>
     
 
