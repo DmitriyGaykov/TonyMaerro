@@ -23,8 +23,7 @@
     <a href="https://github.com/search?q=user%3ATonyMaerro+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat-square&logo=css3&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ATonyMaerro+language%3Asvg"><img alt="SVG" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?style=flat-square&logo=svg&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ATonyMaerro+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-5500aa.svg?style=flat-square&logo=SASS&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ATonyMaerro+language%3Apython"><img alt="PYTHON" src="https://img.shields.io/badge/Python-5151ff.svg?style=flat-square&logo=PYTHON&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ATonyMaerro+language%3Adjango"><img alt="DJANGO" src="https://img.shields.io/badge/Django-brown.svg?style=flat-square&logo=Django&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ATonyMaerro+language%3Acsharp"><img alt="C#" src="https://img.shields.io/badge/CS-5151ff.svg?style=flat-square&logo=CSHARP&logoColor=white"></a>
 
 </p>
 
