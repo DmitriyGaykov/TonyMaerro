@@ -19,7 +19,8 @@
     <a href="https://github.com/search?q=user%3ATonyMaerro+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=flat-square&logo=c-in-hexagon&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ATonyMaerro+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-11038A.svg?style=flat-square&logo=cpp2&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ATonyMaerro+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=flat-square&logo=html5&logoColor=white"></a>
-    <a  style="color: white" href="https://github.com/search?q=user%3ATonyMaerro+language%3Ajavascript"><img alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-f9a933.svg?style=flat-square&logo=javascript&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ATonyMaerro+language%3Atypescript"><img alt="TYPESCRIPTS" src="https://img.shields.io/badge/TypeScript-0000aa.svg?style=flat-square&logo=typescript&logoColor=white"></a>
+    <a  style="color: white" href="https://github.com/search?q=user%3ATonyMaerro+language%3Ajavascript"><img alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-eeaa00.svg?style=flat-square&logo=javascript&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ATonyMaerro+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat-square&logo=css3&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ATonyMaerro+language%3Asvg"><img alt="SVG" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?style=flat-square&logo=svg&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ATonyMaerro+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-5500aa.svg?style=flat-square&logo=SASS&logoColor=white"></a>
