@@ -60,5 +60,4 @@
   <br/>
 </details>
 
-<a href="https://github.com/TonyMaerro"><img alt="TonyMaerro's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=TonyMaerro&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
