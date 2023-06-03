@@ -5,7 +5,7 @@
 <p align="left"> <img style="display: none" src="https://komarev.com/ghpvc/?username=TonyMaerro&label=Profile%20views&color=00CED1&style=flat-square" alt="bxr1ng" /></p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student%20of%20BSTU;Always%20learning%20new%20things;From%20DimAnder&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student%20of%20BSTU;Always%20learning%20new%20things;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 ## Social Media
